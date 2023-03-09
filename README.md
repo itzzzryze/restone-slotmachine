@@ -3,3 +3,5 @@ this is a redstone slotmachine that you can import into any world using litemati
 its made in 1.19.3 and build in creative mode 
 if you have any questions add and dm  me on my discord : itzzz_ryze#2544 
 # THIS FILE REQUIRES [LITEMATICA](https://www.curseforge.com/minecraft/mc-mods/litematica) TO WORK ! 
+![image](https://user-images.githubusercontent.com/74117745/224113195-ccc8268b-060a-440f-9224-2d17dd931fe3.png)
+
